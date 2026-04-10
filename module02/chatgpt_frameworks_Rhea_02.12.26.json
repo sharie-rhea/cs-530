@@ -1,0 +1,148 @@
+{
+    "meta": {
+        "title": "SCREAM AI Prompt Framework",
+        "exportedAt": "2026-02-12 08:10:47"
+    },
+    "chats": [
+        {
+            "index": 0,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "Can you please explain what the AI prompt engineering framework SCREAM is?"
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "The SCREAM framework is a structured approach to writing clearer, more effective AI prompts. It’s designed to help you move from vague instructions to highly targeted prompts that produce reliable, high-quality outputs.\nSCREAM stands for:\nS — Situation\nDescribe the context or background.\nWhat’s happening? Why is this needed?\n\nExample: “I’m preparing a workshop for small business owners about social media marketing.”\n\nThis helps the AI understand the environment and purpose.\n\nC — Constraints\nDefine limits or boundaries.\nLength, format, tone, audience level, platform, deadline, etc.\n\n“Keep it under 500 words, practical, and beginner-friendly.”\n\nConstraints reduce ambiguity and prevent over- or under-detailed responses.\n\nR — Role\nAssign the AI a specific persona or expertise.\n\n“Act as a marketing strategist who specializes in small businesses.”\n\nThis shapes tone, depth, and perspective.\n\nE — Examples\nProvide examples of what you want (or don’t want).\n\n“Here’s an example of the tone I like: clear, punchy, and actionable.”\n\nExamples dramatically improve alignment because the model can pattern-match.\n\nA — Action\nClearly state what you want the AI to do.\n\n“Create a 5-slide outline with key bullet points and one discussion question per slide.”\n\nThe more specific the action, the better the output.\n\nM — Mode\nSpecify the output format or structure.\n\n“Present the response in a numbered list.”\n“Return the output as a table.”\n“Write it as a script.”\n\nMode ensures the output is directly usable.\n\nWhy SCREAM Works\nSCREAM forces clarity. Most weak prompts fail because they:\n\n\nLack context\n\n\nAre missing constraints\n\n\nDon’t specify format\n\n\nAssume the AI “knows what you mean”\n\n\nSCREAM eliminates those gaps.\n\nQuick Comparison\nWeak prompt:\n\n“Write something about time management.”\n\nSCREAM version:\n\nSituation: I’m creating content for busy working parents.\nConstraints: 600 words max, encouraging tone, no jargon.\nRole: Act as a productivity coach.\nExamples: Similar to a LinkedIn thought-leadership post.\nAction: Write a practical guide with 5 tips.\nMode: Use short paragraphs and bold headings.\n\nThe second version will consistently produce stronger, more targeted results.\n\nIf you'd like, I can:\n\n\nBreak SCREAM down into a fill-in-the-blank template\n\n\nCompare it to other frameworks like RACE, CO-STAR, or APE\n\n\nHelp you build a SCREAM prompt for something you're working on\n\n"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "Explain the SCREAM AI prompt engineering framework in 6 bullet points. Do not provide anything other than the bullet points. Use the following structure as an example:\nS - situation: describe context or background"
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "\n\nS - Situation: describe the context or background that frames the request\n\n\nC - Constraints: define limits such as length, tone, format, audience, or boundaries\n\n\nR - Role: assign the AI a specific persona, expertise, or perspective\n\n\nE - Examples: provide sample outputs or stylistic guidance to shape expectations\n\n\nA - Action: clearly state the specific task you want completed\n\n\nM - Mode: specify the desired output structure or delivery format\n\n"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "Your goal is to concisely explain the SCREAM AI prompt engineering framework, success looks like defining each letter of the acronym. This is for an AI graduate level course and you should behave as an instructor. The output must be a short (<300 word) paragraph written in an academic tone."
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "The SCREAM framework is a structured prompt engineering model designed to improve clarity, specificity, and output reliability in AI interactions. The acronym stands for Situation, Constraints, Role, Examples, Action, and Mode. Situation defines the contextual background that frames the request, ensuring the model understands purpose and domain. Constraints establish boundaries such as length, tone, scope, audience, or stylistic limits, reducing ambiguity and variance in outputs. Role assigns the model a defined perspective or expertise, shaping reasoning depth and rhetorical stance. Examples provide reference patterns—either positive or negative—to guide stylistic alignment and structural expectations. Action specifies the exact task to be performed, promoting precision in objective fulfillment. Finally, Mode dictates the required output format or structural presentation (e.g., table, outline, narrative), ensuring usability and consistency. Collectively, SCREAM operationalizes best practices in prompt design by systematically reducing underspecification and increasing controllability in generative systems."
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "I'm taking a graduate course in AI. In exactly 6 bullet points, explain the SIMPLE AI prompt engineering framework acronym. Act as an instructor with an academic tone and use the following example to format your response:\nS - specify: explicitly state the task and goal"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "\n\nS - specify: explicitly state the task, objective, and desired outcome\n\n\nI - input: clearly provide the necessary data, context, or background information required for the task\n\n\nM - model: identify the intended model behavior, expertise level, or reasoning approach to guide responses\n\n\nP - parameters: define controllable settings such as tone, length, format, or creativity level\n\n\nL - limits: establish boundaries and constraints to reduce ambiguity and prevent undesired outputs\n\n\nE - evaluate: assess the output against defined criteria and refine the prompt iteratively for improvement\n\n"
+                }
+            ]
+        },
+        {
+            "index": 8,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "You are a graduate student taking a class in AI, and must write a paragraph to explain the SIMPLE prompt engineering framework in <300 words. Write with an academic and formal tone, as your audience is your instructor. Do not use a repetitive sentence structure like this: S stands for specify, which explicitly states the task of the prompt. I stands for input, which provides context and background information. M stands for model, which identifies the intended behavior and reasoning approach."
+                }
+            ]
+        },
+        {
+            "index": 9,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "The SIMPLE framework provides a structured methodology for designing precise and controllable prompts in generative AI systems. Its components—Specify, Input, Model, Parameters, Limits, and Evaluate—collectively guide users in reducing ambiguity while increasing output fidelity. Effective prompting begins with clearly articulating the objective and intended outcome, thereby anchoring the model’s task orientation. Supplying relevant contextual information and source material ensures that responses are grounded rather than inferred from incomplete cues. Deliberate consideration of the model’s assumed expertise or reasoning stance further shapes analytical depth and perspective. Adjustable parameters, such as tone, length, structure, or creativity level, enable alignment with audience and disciplinary expectations. Establishing explicit constraints minimizes the risk of irrelevant, biased, or overly broad outputs. Finally, systematic evaluation of results against predefined criteria supports iterative refinement, reinforcing prompt robustness over successive interactions. Taken together, SIMPLE operationalizes best practices in prompt engineering by integrating clarity, control, and reflective assessment into a coherent design process suitable for advanced academic and professional applications."
+                }
+            ]
+        },
+        {
+            "index": 10,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "You have explored the two frameworks, SIMPLE and SCREAM. Answer yes or no whether there are other possible definitions for the acronyms."
+                }
+            ]
+        },
+        {
+            "index": 11,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "Yes."
+                }
+            ]
+        },
+        {
+            "index": 12,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "Provide other potential definitions for the two frameworks, only giving the word that the letter stands for. Provide at least 2 additional definitions for each framework. Format your response as follows:\nOption 1:\nS - specify\nI - input\nM - model\nP - parameters\nL - limits\nE - evaluate"
+                }
+            ]
+        },
+        {
+            "index": 13,
+            "type": "prompt",
+            "message": [
+                {
+                    "type": "p",
+                    "data": "Option 1 (SIMPLE):\nS - scope\nI - instructions\nM - method\nP - prompt\nL - logic\nE - examples\nOption 2 (SIMPLE):\nS - structure\nI - information\nM - metrics\nP - persona\nL - language\nE - execution\nOption 1 (SCREAM):\nS - scope\nC - context\nR - reasoning\nE - evidence\nA - audience\nM - medium\nOption 2 (SCREAM):\nS - setting\nC - criteria\nR - role\nE - evaluation\nA - alignment\nM - methodology"
+                }
+            ]
+        }
+    ]
+}
